@@ -4,14 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MorningGirl.SanSanConnectToCrm
+namespace MorningGirl.SanSanConnectToCrm.Model
 {
-    class Program
+    class NlogManager
     {
-        static void Main(string[] args)
-        {
 
 
-        }
     }
 }
