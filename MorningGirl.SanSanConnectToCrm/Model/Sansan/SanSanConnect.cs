@@ -36,9 +36,9 @@ namespace MorningGirl.SanSanConnectToCrm.Model.Sansan
         /// </summary>
         /// <param name="condition"></param>
         /// <returns></returns>
-        public List<BusinessCard> GetBusinessCard(BizCardCondition condition)
+        public List<BizCard> GetBusinessCard(BizCardCondition condition)
         {
-            var bizCards = new List<BusinessCard>();
+            var bizCards = new List<BizCard>();
 
             var hasMore = true;
             

@@ -2,7 +2,7 @@
 
 namespace MorningGirl.SanSanConnectToCrm.Model.Sansan
 {
-    public class BusinessCard
+    public class BizCard
     {
         /// <summary>
         /// 名刺ID

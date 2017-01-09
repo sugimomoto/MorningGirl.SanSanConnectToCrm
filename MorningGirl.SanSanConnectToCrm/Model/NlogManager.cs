@@ -8,7 +8,6 @@ namespace MorningGirl.SanSanConnectToCrm.Model
 {
     class NlogManager
     {
-
-
+        
     }
 }

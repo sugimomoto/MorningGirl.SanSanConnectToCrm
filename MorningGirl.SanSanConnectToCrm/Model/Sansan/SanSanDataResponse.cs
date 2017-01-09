@@ -17,6 +17,6 @@ namespace MorningGirl.SanSanConnectToCrm.Model.Sansan
         /// <summary>
         /// 名刺データコレクション
         /// </summary>
-        public BusinessCard[] data { get; set; }
+        public BizCard[] data { get; set; }
     }
 }

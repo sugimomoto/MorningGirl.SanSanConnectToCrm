@@ -18,7 +18,5 @@ namespace MorningGirl.SanSanConnectToCrm.Model
                 return ConfigurationManager.AppSettings[""];
             }
         }
-
-        
     }
 }
